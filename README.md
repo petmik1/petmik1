@@ -1,5 +1,5 @@
 Hello!
-My name is petter i am a 20 year old frontend-development student from Bergen, Norway. I have been studying frontend-development since august 2020. >The stuidies so far has had a focus on HTML,CSS and Javascript. 
+My name is petter i am a 22 year old frontend-developmer from Bergen, Norway. I studied frontend development at noroff until october 2023> The studies has a focus on creating good interactive user experiences on the web using tecniologies as React, JavaScript. 
 
 hobbies:
 
